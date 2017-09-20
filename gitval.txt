@@ -1,0 +1,16 @@
+this is remote gitremote1 file.
+======================================
+This is a list of the commands I use most frequently, listed by funcional category:
+
+current state
+
+ git status 	list which (unstaged) files have changed
+ git diff 	list (unstaged) changes to files
+ git log 	list recent commits
+
+adding files to repo
+
+ git add fn 	stage file
+ git commit -m 'message' 	commit file
+ git commit -am 'message' 	add/commit all changes from all tracked files (no untracked files) in one go
+
